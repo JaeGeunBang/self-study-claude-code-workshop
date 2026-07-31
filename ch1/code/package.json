@@ -1,0 +1,9 @@
+{
+  "name": "user-service-lab",
+  "version": "1.0.0",
+  "description": "Claude Code Workshop Chapter 1 sample project",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
